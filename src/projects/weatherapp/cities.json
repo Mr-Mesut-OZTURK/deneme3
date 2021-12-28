@@ -1,0 +1,733 @@
+{
+    "cities": [
+        {
+          "Eklendi": "Mon, 15 Aug 2016 20:41:11 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Adana",
+          "Sehir-Bilgileri": {
+            "plaka": 1,
+            "sehir": "Adana"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/1"
+        },
+        {
+          "Eklendi": "Mon, 15 Aug 2016 21:10:51 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Adiyaman",
+          "Sehir-Bilgileri": {
+            "plaka": 2,
+            "sehir": "Adiyaman"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/2"
+        },
+        {
+          "Eklendi": "Mon, 15 Aug 2016 21:12:42 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Afyonkarahisar",
+          "Sehir-Bilgileri": {
+            "plaka": 3,
+            "sehir": "Afyonkarahisar"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/3"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 10:25:33 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Agri",
+          "Sehir-Bilgileri": {
+            "plaka": 4,
+            "sehir": "Agri"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/4"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 10:25:51 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Amasya",
+          "Sehir-Bilgileri": {
+            "plaka": 5,
+            "sehir": "Amasya"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/5"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:24 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Ankara",
+          "Sehir-Bilgileri": {
+            "plaka": 6,
+            "sehir": "Ankara"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/6"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:24 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Antalya",
+          "Sehir-Bilgileri": {
+            "plaka": 7,
+            "sehir": "Antalya"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/7"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:24 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Artvin",
+          "Sehir-Bilgileri": {
+            "plaka": 8,
+            "sehir": "Artvin"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/8"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:24 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Aydin",
+          "Sehir-Bilgileri": {
+            "plaka": 9,
+            "sehir": "Aydin"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/9"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:24 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Balikesir",
+          "Sehir-Bilgileri": {
+            "plaka": 10,
+            "sehir": "Balikesir"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/10"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:24 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Bilecik",
+          "Sehir-Bilgileri": {
+            "plaka": 11,
+            "sehir": "Bilecik"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/11"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:24 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Bingol",
+          "Sehir-Bilgileri": {
+            "plaka": 12,
+            "sehir": "Bingol"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/12"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:25 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Bitlis",
+          "Sehir-Bilgileri": {
+            "plaka": 13,
+            "sehir": "Bitlis"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/13"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:25 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Bolu",
+          "Sehir-Bilgileri": {
+            "plaka": 14,
+            "sehir": "Bolu"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/14"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:25 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Burdur",
+          "Sehir-Bilgileri": {
+            "plaka": 15,
+            "sehir": "Burdur"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/15"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:25 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Bursa",
+          "Sehir-Bilgileri": {
+            "plaka": 16,
+            "sehir": "Bursa"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/16"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:25 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Canakkale",
+          "Sehir-Bilgileri": {
+            "plaka": 17,
+            "sehir": "Canakkale"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/17"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:25 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Cankiri",
+          "Sehir-Bilgileri": {
+            "plaka": 18,
+            "sehir": "Cankiri"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/18"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:25 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Corum",
+          "Sehir-Bilgileri": {
+            "plaka": 19,
+            "sehir": "Corum"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/19"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:25 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Denizli",
+          "Sehir-Bilgileri": {
+            "plaka": 20,
+            "sehir": "Denizli"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/20"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:25 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Diyarbakir",
+          "Sehir-Bilgileri": {
+            "plaka": 21,
+            "sehir": "Diyarbakir"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/21"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:25 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Edirne",
+          "Sehir-Bilgileri": {
+            "plaka": 22,
+            "sehir": "Edirne"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/22"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:25 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Elazig",
+          "Sehir-Bilgileri": {
+            "plaka": 23,
+            "sehir": "Elazig"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/23"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:26 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Erzincan",
+          "Sehir-Bilgileri": {
+            "plaka": 24,
+            "sehir": "Erzincan"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/24"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:26 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Erzurum",
+          "Sehir-Bilgileri": {
+            "plaka": 25,
+            "sehir": "Erzurum"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/25"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:26 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Eskisehir",
+          "Sehir-Bilgileri": {
+            "plaka": 26,
+            "sehir": "Eskisehir"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/26"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:26 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Gaziantep",
+          "Sehir-Bilgileri": {
+            "plaka": 27,
+            "sehir": "Gaziantep"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/27"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:26 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Giresun",
+          "Sehir-Bilgileri": {
+            "plaka": 28,
+            "sehir": "Giresun"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/28"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:26 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Gumushane",
+          "Sehir-Bilgileri": {
+            "plaka": 29,
+            "sehir": "Gumushane"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/29"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:26 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Hakkari",
+          "Sehir-Bilgileri": {
+            "plaka": 30,
+            "sehir": "Hakkari"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/30"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:26 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Hatay",
+          "Sehir-Bilgileri": {
+            "plaka": 31,
+            "sehir": "Hatay"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/31"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:26 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Isparta",
+          "Sehir-Bilgileri": {
+            "plaka": 32,
+            "sehir": "Isparta"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/32"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:26 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Mersin",
+          "Sehir-Bilgileri": {
+            "plaka": 33,
+            "sehir": "Mersin"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/33"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:26 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Istanbul",
+          "Sehir-Bilgileri": {
+            "plaka": 34,
+            "sehir": "Istanbul"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/34"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:26 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Izmir",
+          "Sehir-Bilgileri": {
+            "plaka": 35,
+            "sehir": "Izmir"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/35"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:26 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Kars",
+          "Sehir-Bilgileri": {
+            "plaka": 36,
+            "sehir": "Kars"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/36"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:27 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Kastamonu",
+          "Sehir-Bilgileri": {
+            "plaka": 37,
+            "sehir": "Kastamonu"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/37"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:27 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Kayseri",
+          "Sehir-Bilgileri": {
+            "plaka": 38,
+            "sehir": "Kayseri"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/38"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:27 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Kirklareli",
+          "Sehir-Bilgileri": {
+            "plaka": 39,
+            "sehir": "Kirklareli"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/39"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:27 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Kirsehir",
+          "Sehir-Bilgileri": {
+            "plaka": 40,
+            "sehir": "Kirsehir"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/40"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:27 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Kocaeli",
+          "Sehir-Bilgileri": {
+            "plaka": 41,
+            "sehir": "Kocaeli"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/41"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:27 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Konya",
+          "Sehir-Bilgileri": {
+            "plaka": 42,
+            "sehir": "Konya"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/42"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:27 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Kutahya",
+          "Sehir-Bilgileri": {
+            "plaka": 43,
+            "sehir": "Kutahya"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/43"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:27 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Malatya",
+          "Sehir-Bilgileri": {
+            "plaka": 44,
+            "sehir": "Malatya"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/44"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:27 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Manisa",
+          "Sehir-Bilgileri": {
+            "plaka": 45,
+            "sehir": "Manisa"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/45"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:27 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Kahramanmaras",
+          "Sehir-Bilgileri": {
+            "plaka": 46,
+            "sehir": "Kahramanmaras"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/46"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:27 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Mardin",
+          "Sehir-Bilgileri": {
+            "plaka": 47,
+            "sehir": "Mardin"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/47"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:27 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Mugla",
+          "Sehir-Bilgileri": {
+            "plaka": 48,
+            "sehir": "Mugla"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/48"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:27 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Mus",
+          "Sehir-Bilgileri": {
+            "plaka": 49,
+            "sehir": "Mus"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/49"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:28 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Nevsehir",
+          "Sehir-Bilgileri": {
+            "plaka": 50,
+            "sehir": "Nevsehir"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/50"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:28 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Nigde",
+          "Sehir-Bilgileri": {
+            "plaka": 51,
+            "sehir": "Nigde"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/51"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:28 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Ordu",
+          "Sehir-Bilgileri": {
+            "plaka": 52,
+            "sehir": "Ordu"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/52"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:28 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Rize",
+          "Sehir-Bilgileri": {
+            "plaka": 53,
+            "sehir": "Rize"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/53"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:28 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Sakarya",
+          "Sehir-Bilgileri": {
+            "plaka": 54,
+            "sehir": "Sakarya"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/54"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:28 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Samsun",
+          "Sehir-Bilgileri": {
+            "plaka": 55,
+            "sehir": "Samsun"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/55"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:28 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Siirt",
+          "Sehir-Bilgileri": {
+            "plaka": 56,
+            "sehir": "Siirt"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/56"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:28 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Sinop",
+          "Sehir-Bilgileri": {
+            "plaka": 57,
+            "sehir": "Sinop"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/57"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:28 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Sivas",
+          "Sehir-Bilgileri": {
+            "plaka": 58,
+            "sehir": "Sivas"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/58"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:28 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Tekirdag",
+          "Sehir-Bilgileri": {
+            "plaka": 59,
+            "sehir": "Tekirdag"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/59"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:28 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Tokat",
+          "Sehir-Bilgileri": {
+            "plaka": 60,
+            "sehir": "Tokat"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/60"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:28 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Trabzon",
+          "Sehir-Bilgileri": {
+            "plaka": 61,
+            "sehir": "Trabzon"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/61"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:28 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Tunceli",
+          "Sehir-Bilgileri": {
+            "plaka": 62,
+            "sehir": "Tunceli"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/62"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:29 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Sanliurfa",
+          "Sehir-Bilgileri": {
+            "plaka": 63,
+            "sehir": "Sanliurfa"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/63"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:29 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Usak",
+          "Sehir-Bilgileri": {
+            "plaka": 64,
+            "sehir": "Usak"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/64"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:29 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Van",
+          "Sehir-Bilgileri": {
+            "plaka": 65,
+            "sehir": "Van"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/65"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:29 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Yozgat",
+          "Sehir-Bilgileri": {
+            "plaka": 66,
+            "sehir": "Yozgat"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/66"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:29 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Zonguldak",
+          "Sehir-Bilgileri": {
+            "plaka": 67,
+            "sehir": "Zonguldak"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/67"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:29 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Aksaray",
+          "Sehir-Bilgileri": {
+            "plaka": 68,
+            "sehir": "Aksaray"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/68"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:29 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Bayburt",
+          "Sehir-Bilgileri": {
+            "plaka": 69,
+            "sehir": "Bayburt"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/69"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:29 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Karaman",
+          "Sehir-Bilgileri": {
+            "plaka": 70,
+            "sehir": "Karaman"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/70"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:29 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Kirikkle",
+          "Sehir-Bilgileri": {
+            "plaka": 71,
+            "sehir": "Kirikkle"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/71"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:29 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Batman",
+          "Sehir-Bilgileri": {
+            "plaka": 72,
+            "sehir": "Batman"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/72"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:29 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Sirnak",
+          "Sehir-Bilgileri": {
+            "plaka": 73,
+            "sehir": "Sirnak"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/73"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:29 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Bartin",
+          "Sehir-Bilgileri": {
+            "plaka": 74,
+            "sehir": "Bartin"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/74"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:30 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Ardahan",
+          "Sehir-Bilgileri": {
+            "plaka": 75,
+            "sehir": "Ardahan"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/75"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:30 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Igdir",
+          "Sehir-Bilgileri": {
+            "plaka": 76,
+            "sehir": "Igdir"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/76"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:30 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Yalova",
+          "Sehir-Bilgileri": {
+            "plaka": 77,
+            "sehir": "Yalova"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/77"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:30 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Karabuk",
+          "Sehir-Bilgileri": {
+            "plaka": 78,
+            "sehir": "Karabuk"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/78"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:30 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Kilis",
+          "Sehir-Bilgileri": {
+            "plaka": 79,
+            "sehir": "Kilis"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/79"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:30 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Osmaniye",
+          "Sehir-Bilgileri": {
+            "plaka": 80,
+            "sehir": "Osmaniye"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/80"
+        },
+        {
+          "Eklendi": "Tue, 16 Aug 2016 11:30:30 GMT",
+          "Google Map Link": "https://www.google.com/maps/place/Duzce",
+          "Sehir-Bilgileri": {
+            "plaka": 81,
+            "sehir": "Duzce"
+          },
+          "URL": "https://api-sehir.herokuapp.com/api/city/81"
+        }
+      ]
+}
